@@ -84,7 +84,7 @@ for (let i = 0; i < 15; i++) {
         document.querySelector('.carousel-inner').innerHTML += `
             <div id="${element.id}" class="carousel-item" data-bs-interval="100000000000000000000">
                 <div class="contentItem">
-                    <img src="/images/${element.id}.jpg"></img>
+                    <img src="images/${element.id}.jpg"></img>
                 </div>
             </div>
     `
@@ -93,7 +93,7 @@ for (let i = 0; i < 15; i++) {
         document.querySelector('.carousel-inner').innerHTML += `
             <div id="${element.id}" class="carousel-item" data-bs-interval="100">
                 <div class="contentItem">
-                <img src="/images/${element.id}.jpg"></img>
+                <img src="images/${element.id}.jpg"></img>
                 </div>
                 
             </div>
