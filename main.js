@@ -75,7 +75,7 @@ for (let i = 0; i < 15; i++) {
         document.querySelector('.carousel-inner').innerHTML += `
             <div id="${element.id}" class="carousel-item" data-bs-interval="100000000000000000000">
                 <div class="contentItem">
-                    <p style="font-size: 2rem; padding-inline: 3rem">охуенный год был, да? а я тебе тут упущенного наверстала. бахай в кнопку и получай предсказание на следующий год от татарской ведьмы</p>
+                    <p style="font-size: 2rem; padding-inline: 2rem">охуенный год был, да? а я тебе тут упущенного наверстала. бахай в кнопку и получай предсказание на следующий год от татарской ведьмы</p>
                 </div>
             </div>
     `
